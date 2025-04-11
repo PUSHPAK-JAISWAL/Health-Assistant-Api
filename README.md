@@ -1,6 +1,3 @@
-Below is an example of a complete **README.md** file that documents the API, endpoints, parameters, and usage instructions. You can create a new file named `README.md` in your project root and paste the following content:
-
----
 
 ```markdown
 # Health Assistant API
